@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm kxr</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=efekurbann&label=Profile%20views&color=0e75b6&style=flat" alt="efekurbann" /> </p>
-<img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=31hnazkrua7zm4txgwbq7umcxyfy&unique={true|1|on|yes}&count=3" alt="efekurbann" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=averagekxr&label=Profile%20views&color=0e75b6&style=flat" alt="averagekxr" /> </p>
+<img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=31hnazkrua7zm4txgwbq7umcxyfy&unique={true|1|on|yes}&count=3" alt="averagekxr" />
 
 - 🔭 I’m currently working on [API SERVICE](https://github.com/averagekxr/api-docs-status-page)
 
