@@ -1,24 +1,23 @@
-<h1 align="center" style="font-family: 'Arial', sans-serif; color: #F5F5F5; font-size: 3rem; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);">❄️ averagekxr</h1>
+<h1 align="center">Hi 👋, I'm kxr</h1>
+<h3 align="center">A passionate developer from Turkey</h3>
 
-<p align="center" style="font-family: 'Arial', sans-serif; color: #A0A0A0; font-style: italic; font-size: 1.5rem; letter-spacing: 1px;">
-  <i> taninmam, ulasamassin. </i>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=efekurbann&label=Profile%20views&color=0e75b6&style=flat" alt="efekurbann" /> </p>
+<img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=31hnazkrua7zm4txgwbq7umcxyfy&unique={true|1|on|yes}&count=3" alt="efekurbann" />
+
+- 🔭 I’m currently working on [API SERVICE](https://github.com/averagekxr/api-docs-status-page)
+
+- 🌱 I’m currently learning **Nest.js and Typescript**
+
+- 📫 How to reach me **asiridoz@proton.me**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/averagekxr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="averagekxr" height="30" width="40" /></a>
 </p>
 
-<hr style="border: 1px solid #333; width: 50%; margin: 1rem auto;">
+<h3 align="left">Languages and Tools:</h3>
+<a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31hnazkrua7zm4txgwbq7umcxyfy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing" style="border-radius: 15px; border: 3px solid #333; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5);">
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=averagekxr&show_icons=true&locale=en&layout=compact" alt="efekurbann" /></p>
 
-<hr style="border: 1px solid #333; width: 50%; margin: 1rem auto;">
-
-<pre style="background-color: #121212; color: #F5F5F5; padding: 1rem; border-radius: 10px; font-family: 'Courier New', Courier, monospace; font-size: 1.1rem; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.5);">
-root@averagekxr:~# whoami
-kxr
-
-root@averagekxr:~# languages
-Python, JavaScript, PHP, HTML, CSS
-
-root@averagekxr:~# exit
-Connection lost...
-</pre>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=averagekxr&show_icons=true&locale=en" alt="efekurbann" /></p>
